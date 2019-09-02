@@ -13,9 +13,9 @@ If the data in the table where in a inner data wrapper like if we can say :
 
 To use this function you only need to do 3 things 
 
-1 - Implement the function file into your code 
-2 - Add the class ----       searchingInput       ----    to your search input 
-3 - Add the class ----       searchForTable       ----    to your table body  
+- Implement the function file into your code 
+- Add the class ----       searchingInput       ----    to your search input 
+- Add the class ----       searchForTable       ----    to your table body  
 
 Finaly you are good to go after 
 
