@@ -2,7 +2,7 @@
 A jquery custom made search function for searching from input into table rows and data either if the data in the row ( span - select - input - td )  
 SEARCH FUNCTION 
 
-This search function made to solve a custom issues 
+This search function made to solve a custom issues using Jquery latest version 
 
 If the data in the table where in a inner data wrapper like if we can say : 
 -   span 
